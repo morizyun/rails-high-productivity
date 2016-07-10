@@ -31,3 +31,11 @@ When you want to create new Rails application, please use application templates:
     - Enforce many of the guidelines outlined in the community Ruby Style Guide
   - Configuration Sample
     - **[.rubocop.yml](https://github.com/morizyun/rails5_application_template/blob/master/root/.rubocop.yml)**
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
