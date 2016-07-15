@@ -1,3 +1,11 @@
 # Tips for Rubocop
 
-TBE
+## Useful Commands
+
+```
+# Refactoring automatically
+$ rubocop --auto-correct
+
+# Create .rubocop_todo.yml
+$ rubocop --auto-gen-config
+```
