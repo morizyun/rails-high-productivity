@@ -4,10 +4,8 @@
 
 When you want to create new Rails application, please use application templates:
 
-  * [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders)
-    * A Rails template with our standard defaults, ready to deploy to Heroku
-  * [morizyun/rails5_application_template](https://github.com/morizyun/rails5_application_template)
-    * Simple Rails template with community standard defaults
+  * [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders) : A Rails template with thoughtbot standard defaults, ready to deploy to Heroku
+  * [morizyun/rails5_application_template](https://github.com/morizyun/rails5_application_template) : Simple Rails template with community standard defaults
 
 ## Git Hook Manager
 
@@ -64,22 +62,21 @@ When you want to create new Rails application, please use application templates:
 
 ### Rails Profile
 
-  * [New Relic](https://newrelic.com/)
-  * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler)
-  * [rack-lineprof](https://github.com/kainosnoema/rack-lineprof)
+  * [New Relic](https://newrelic.com/) : Application performance monitoring
+  * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) : Profiler for your development and production Ruby rack apps
+  * [rack-lineprof](https://github.com/kainosnoema/rack-lineprof) : Rack middleware for easy line-by-line profiling using rblineprof
 
 ### Ruby Profile
 
-  * [peek/peek-rblineprof](https://github.com/peek/peek-rblineprof)
-  * [tmm1/stackprof](https://github.com/tmm1/stackprof)
-  * [SamSaffron/memory_profiler](https://github.com/SamSaffron/memory_profiler)
+  * [peek-rblineprof](https://github.com/peek/peek-rblineprof) : Peek into how much each line of your Rails application takes throughout a request
+  * [stackprof](https://github.com/tmm1/stackprof) : A sampling call-stack profiler for ruby 2.1+
+  * [memory_profiler](https://github.com/SamSaffron/memory_profiler) : memory_profiler for ruby
 
 ## View Cache
 
 ### Fragment Cache
 
-  * [Fragment Cache](http://edgeguides.rubyonrails.org/caching_with_rails.html#fragment-caching)
-    * It is useful for example global navigation or sidebar.
+  * [Fragment Cache](http://edgeguides.rubyonrails.org/caching_with_rails.html#fragment-caching) : It is useful for example global navigation or sidebar.
 
 ### Action Cache
 
