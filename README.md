@@ -17,7 +17,7 @@ When you want to create new Rails application, please use application templates:
     * A fully configurable and extendable Git hook manager
   * Features
     * Run automatically static analysis like Rubocop, hamlint or etc when you do "git commands".
-    * Run automatically security checker like Brakeman, bundler-audit(now PR) or etc when you do "git commands".
+    * Run automatically security checker like Brakeman, bundler-audit or etc when you do "git commands".
     * Enforce a rule about git configuration, commit message.
     * Prevent a mistake for git command
   * Configuration Sample
@@ -67,12 +67,12 @@ When you want to create new Rails application, please use application templates:
 ### Rails Profile
 
   * [New Relic](https://newrelic.com/) : Application performance monitoring
+  * [peek-rblineprof](https://github.com/peek/peek-rblineprof) : Peek into how much each line of your Rails application takes throughout a request
   * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) : Profiler for your development and production Ruby rack apps
   * [rack-lineprof](https://github.com/kainosnoema/rack-lineprof) : Rack middleware for easy line-by-line profiling using rblineprof
 
 ### Ruby Profile
 
-  * [peek-rblineprof](https://github.com/peek/peek-rblineprof) : Peek into how much each line of your Rails application takes throughout a request
   * [stackprof](https://github.com/tmm1/stackprof) : A sampling call-stack profiler for ruby 2.1+
   * [memory_profiler](https://github.com/SamSaffron/memory_profiler) : memory_profiler for ruby
 
