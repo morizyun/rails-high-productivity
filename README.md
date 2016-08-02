@@ -36,6 +36,10 @@ When you want to create new Rails application, please use application templates:
   * Configuration Sample
     * [.rubocop.yml](https://github.com/morizyun/rails5_application_template/blob/master/root/.rubocop.yml)
 
+## RSpec
+
+  * [RSpec::Core Cheat Sheet](http://www.rubypigeon.com/posts/rspec-core-cheat-sheet/)
+
 ## Improving performance in ActiveRecord
 
 ### Finding Lazy Query
