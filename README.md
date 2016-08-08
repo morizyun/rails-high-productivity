@@ -7,9 +7,9 @@ When you want to create new Rails application, please use application templates:
   * [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders) : A Rails template with thoughtbot standard defaults, ready to deploy to Heroku
   * [morizyun/rails5_application_template](https://github.com/morizyun/rails5_application_template) : Simple Rails template with community standard defaults
 
-## Git Hook Manager
+## Git Integration
 
-### overcommit
+### Git Hook Manager: overcommit
 
   * Repository
     * [overcommit](https://github.com/brigade/overcommit)
@@ -23,6 +23,15 @@ When you want to create new Rails application, please use application templates:
   * Configuration Sample
     * [.overcommit.yml](https://github.com/morizyun/rails5_application_template/blob/master/root/.overcommit.yml)
 
+### GitHub Review Support Tool : pronto
+
+  * Repository
+    * [pronto](https://github.com/mmozuras/pronto)
+  * Outline
+    * Quick automated code review of your changes in GitHub/GitLab/BitBucket
+  * Features
+    * Created to be used on pull requests with GitHub, but also works locally and integrates with GitLab and Bitbucket
+
 ## Static Code Analysis
 
 ### Rubocop
@@ -35,6 +44,13 @@ When you want to create new Rails application, please use application templates:
     * Enforce many of the guidelines outlined in the community Ruby Style Guide
   * Configuration Sample
     * [.rubocop.yml](https://github.com/morizyun/rails5_application_template/blob/master/root/.rubocop.yml)
+    
+### Fasterer
+
+  * Repository
+    * [fasterer](https://github.com/DamirSvrtan/fasterer)
+  * Outline
+    * Fasterer will suggest some speed improvements which you can check in detail at the fast-ruby repo.
 
 ## RSpec
 
