@@ -4,8 +4,8 @@
 
 ```
 # Refactoring automatically
-$ rubocop --auto-correct
+$ bundle exec rubocop --auto-correct
 
 # Create .rubocop_todo.yml
-$ rubocop --auto-gen-config
+$ bundle exec rubocop --auto-gen-config
 ```
