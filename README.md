@@ -106,6 +106,10 @@ When you want to create new Rails application, please use application templates:
 
   * [actionpack-page_caching](https://github.com/rails/actionpack-page_caching) : Static page caching for Action Pack
 
+## GitLab
+
+  * [Continuous Integration, Delivery, and Deployment with GitLab](https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/)
+
 ## Special Thanks
 
   * https://speakerdeck.com/toshimaru/speeding-up-rails
